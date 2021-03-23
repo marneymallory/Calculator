@@ -21,7 +21,7 @@ Open via Bash/GitBash:
 `code .`
 3. Open index.html in Chrome or preferred browser
 
-#### To see my live website go to https://marneymallory.github.io/Calculator/!
+#### To see my live website go to https://github.com/marneymallory/Calculator/blob/gh-pages/js/scripts.js
 
 
 ## Known Bugs
