@@ -2,7 +2,8 @@
 
 #### _Calculator Application,3/22/22_
 
-#### By _**Marney Mallory**_
+#### By _**Marney Mallory, Isaac Moreno and Thomas Russell**_
+
 
 ## Description
 
@@ -43,4 +44,4 @@ _Please reach out through my GitHub account._
 
 MIT License.
 
-Copyright (c) 2021 **Marney Mallory**
+Copyright (c) 2021 **Marney Mallory, Isaac Moreno and Thomas Russell**
